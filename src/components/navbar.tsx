@@ -20,7 +20,7 @@ export default async function Navbar() {
 
         <div className="hidden md:flex gap-6 items-center">
           <Link
-            href="#"
+            href="/ai-friend"
             className="text-sm font-medium text-gray-700 hover:text-blue-600"
           >
             AI Friend
